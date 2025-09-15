@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm mohamed maghawry</h1>
 <h3 align="center">Aspiring software developer | A passionate AI from Egypt</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+[<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaghawry-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mmaghawry-dev" /> </p>
 
 - 📫 How to reach me **mmaghawry56@gmail.com**
